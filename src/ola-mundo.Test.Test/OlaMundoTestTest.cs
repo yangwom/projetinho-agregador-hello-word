@@ -7,7 +7,7 @@ namespace ola_mundo.Test.Test;
 
 public class OlaMundoTestTest2
 {
-    [Trait("Category", "2 - Criou testes de falha para o TestOlaMundo.")]
+    [Trait("Category", "Complete o teste para o Olá, Mundo!.")]
     [Theory(DisplayName = "TestOlaMundo deve falhar quando não printar Olá, Mundo!")]
     [InlineData("Hello World!")]
     [InlineData("Olá MUNDO")]
@@ -24,7 +24,7 @@ public class OlaMundoTestTest2
 public class OlaMundoTestTest1
 {
 
-    [Trait("Category", "1 - Criou testes de sucesso para o TestOlaMundo.")]
+    [Trait("Category", "Imprima \"Olá, Mundo!\" no Console.")]
     [Theory(DisplayName = "TestOlaMundo deve ser executado com sucesso quando printar Olá, Mundo!")]
     [InlineData("Olá, Mundo!")]
     public void TestSucessTestOlaMundo(string Entry)
