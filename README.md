@@ -8,3 +8,8 @@
 Nesse projeto o objetivo é imprimir hello word no console e depois fazer o teste da função
 
 
+## como baixar na sua máquina
+
+- git clone git@github.com:yangwom/ex.cs.git
+- entre na pasta src/test-message-test
+- code .
