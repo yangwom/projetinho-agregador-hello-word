@@ -2,10 +2,10 @@
 public class Hello
 {
   static void Main() { 
-    OlaMundo();
+   OlaMundo();
   }
-  public static void OlaMundo()
+  public static string OlaMundo()
   {
-    Console.WriteLine("Olá, Mundo!");
+    return "Olá, Mundo!";
   }
 }
