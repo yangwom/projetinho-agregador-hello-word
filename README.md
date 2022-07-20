@@ -20,6 +20,6 @@ Nesse projeto o objetivo é imprimir hello word("Olá Mundo!") no console e depo
 
 ### OBS 
 
-se voce estiver em alguma distribuição linux é necessario instalar .NET CORE em sua máquina se a documentação [DOCS](https://docs.microsoft.com/pt-br/dotnet/core/install/linux)
+se voce estiver em alguma distribuição linux é necessario instalar .NET CORE em sua máquina segue a documentação [DOCS](https://docs.microsoft.com/pt-br/dotnet/core/install/linux)
 
 para os usuários de macOS [DOCS](https://docs.microsoft.com/pt-br/dotnet/core/install/macOS)
