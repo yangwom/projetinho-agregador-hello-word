@@ -15,7 +15,7 @@ Nesse projeto o objetivo é imprimir hello word("Olá Mundo!") no console e depo
 - entre na pasta src
 - digite o comando dotnet build para fazer a compilaçaõ do codigo em sua máquina
 - code .
-- se quiser ver o Olá Mundo em seu console digite o comando dotnet run, ### OBS se tiver na pasta src digite o comando dotnet run --project ola-mundo, mas se estiver na pasta src/ola-mundo  digite apenas dotnet run
+- se quiser ver o Olá Mundo em seu console digite o comando dotnet run, OBS: se tiver na pasta src digite o comando dotnet run --project ola-mundo, mas se estiver na pasta src/ola-mundo  digite apenas dotnet run
 - se quiser testar a aplicação vai na pasta src/ola-mundo.Test abra o terminal e digite o comado dotnet test
 
 ### OBS 
