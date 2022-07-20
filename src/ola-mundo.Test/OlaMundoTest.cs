@@ -12,13 +12,11 @@ public class OlaMundoTest
    [InlineData("Olá, Mundo!")]
   public void TestOlaMundo(string Expected)
   {
-    using (var NewOutput = new StringWriter())
     {
-      Console.SetOut(NewOutput);
 
-      Hello.OlaMundo();
+     
 
-      string result = NewOutput.ToString().Trim();
+      string result =  Hello.OlaMundo();
 
       result.Should().Be(Expected);
     }
