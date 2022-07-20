@@ -16,7 +16,7 @@ public class OlaMundoTest
 
      
 
-      string result =  Hello.OlaMundo();
+      string result = Hello.OlaMundo();
 
       result.Should().Be(Expected);
     }

@@ -6,6 +6,7 @@ public class Hello
   }
   public static string OlaMundo()
   {
+    Console.WriteLine("Olá, Mundo!");
     return "Olá, Mundo!";
   }
 }
