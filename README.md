@@ -10,6 +10,7 @@ Nesse projeto o objetivo é imprimir hello word no console e depois fazer o test
 
 ## como baixar na sua máquina
 
-- git clone git@github.com:yangwom/ex.cs.git
+- abra o terminal
+- git clone git@github.com:yangwom/projetinho-agregador-hello-word.git
 - entre na pasta src/test-message-test
 - code .
